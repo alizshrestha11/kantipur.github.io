@@ -1,0 +1,53 @@
+img
+{
+	width: 1005;
+	height: 300;
+}
+#heading
+{
+	color: orange;
+}
+#paragraph
+{
+	color: white;
+}
+#about
+{
+	color: orange;
+	text-underline-position: 10;
+}
+#p2
+{
+	color: white;
+}
+#location
+{
+	color: orange;
+}
+#faculty
+{
+	color:green;
+}
+#a
+{
+	color: white;
+}
+#b
+{
+	color: white;
+}
+#c
+{
+	color: orange;
+}
+form
+{
+	color: white;
+}
+label
+{
+	display: inline-block;\
+	width: 50px;
+}
+
+
